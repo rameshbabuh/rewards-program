@@ -13,7 +13,7 @@ This app reads throught every transaction the user has made and displays the rew
 To get started developing right away:
 
 * Clone the project
-* Type `cd rewards-program` on the terminal
+* install the dependencies using `npm install`
 * Start the development server with `npm start`
 
 ## License
