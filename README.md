@@ -5,6 +5,7 @@ This app reads throught every transaction the user has made and displays the rew
 
 ## Dependencies
 
+* git
 * npm
 
 ## Quick Start
